@@ -38,8 +38,8 @@ With **90%+ accuracy** and **5x faster processing speed**, SAGE is designed to t
 ## 📥 Installation
 ### **1️⃣ Clone the Repository**
 ```sh
- git https://github.com/flashcodes-themayankjha/Project_SAGE/
- cd sage
+ git clone  https://github.com/flashcodes-themayankjha/Project_SAGE
+ cd Project_SAGE
 ```
 
 ### **2️⃣ Create a Virtual Environment**
